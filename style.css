@@ -12,7 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #675AFE;
+    background: linear-gradient(135deg,#4dbe4d,#6459d9)
 }
 
 .wrapper {
@@ -54,7 +54,7 @@ form input {
 
 form input:focus {
     padding: 0 14px;
-    border: 2px solid #675AFE;
+    border: 2px solid #11c62f;
 }
 
 form .drop-list {
@@ -71,7 +71,7 @@ form .drop-list {
     border-radius: 5px;
     align-items: center;
     justify-content: center;
-    border: 1px solid #999;
+    border: 1px solid #32a73f;
 
 }
 
@@ -115,5 +115,5 @@ form button {
     color: #fff;
     font-size: 17px;
     cursor: pointer;
-    background: #675AFE;
+    background: #56b522;
 }
